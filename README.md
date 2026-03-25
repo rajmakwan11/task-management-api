@@ -140,7 +140,7 @@ Use tools like:
 
 ## 📌 Author
 
-* **Your Name**
+* **Raj Makwana**
 
 ---
 
